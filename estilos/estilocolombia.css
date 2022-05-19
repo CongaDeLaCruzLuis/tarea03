@@ -1,0 +1,61 @@
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    
+}
+
+.menu{
+    text-align: center;
+    margin: 0;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu a{
+    padding: 45px;
+    color: brown;
+    text-decoration: none;    
+    display: block;
+}
+
+.menu a:hover{
+    background-color: rgb(255, 255, 255);
+    font-size: large;
+}
+
+.factor {
+    width: 100%;
+    
+}
+
+.izquierda {
+    width: 20%;
+    text-align: center;
+    background-color: red;
+}
+
+.derecha {
+    width: 20%;
+    text-align: center;
+    background-color: red;
+}
+
+.titulo {
+    text-align: center;
+    color: aliceblue;
+}
+
+.central {
+    padding: 50px;
+    text-align: center;
+    vertical-align: top;
+    background-color: white;
+    color: black;
+    
+}
